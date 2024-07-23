@@ -5,3 +5,4 @@ response = client.stop_instances(
         'i-06ede22472f69b87c',
     ]
 )
+}
